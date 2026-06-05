@@ -1,0 +1,7 @@
+[package]
+name = "ternary-chemistry"
+version = "0.1.0"
+edition = "2021"
+description = "Chemical reaction networks in ternary — species, reactions, equilibrium, and catalysis"
+
+[dependencies]
