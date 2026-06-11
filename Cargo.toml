@@ -2,6 +2,7 @@
 repository = "https://github.com/SuperInstance/ternary-chemistry"
 name = "ternary-chemistry"
 version = "0.1.0"
+license = "MIT OR Apache-2.0"
 edition = "2021"
 description = "Chemical reaction networks in ternary — species, reactions, equilibrium, and catalysis"
 
